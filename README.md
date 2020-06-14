@@ -1,4 +1,4 @@
-# Default Tamplate NodeJs
+# Default Template NodeJs
 
 Este é uma ambiente node pré-configurado para agilizar o processo de desenvolvimento evitando o período de configurações iniciais para a aplicação. Este layout está pré configurado para depuração e execução de aplicações node utilizando o Javascript utilizando:
 
